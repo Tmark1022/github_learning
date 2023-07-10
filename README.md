@@ -1,6 +1,7 @@
 # github_learning
 learn the github document
 
+- [git如何对待数据:joy:](git_data_storage.md)
 - [分支管理策略](branch_policy.md)
 
 # 运行 git clone 时，会执行以下操作：
