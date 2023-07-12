@@ -3,6 +3,7 @@ learn the github document
 
 - [git如何对待数据:joy:](git_data_storage.md)
 - [分支管理策略](branch_policy.md)
+- [git book](https://git-scm.com/book/zh/v2) 
 
 # 运行 git clone 时，会执行以下操作：
 1. 创建名为 repo 的新文件夹
@@ -18,7 +19,3 @@ learn the github document
 行尾使用两个空格来在一个段落中换行  
 行尾使用两个空格来在一个段落中换行  
 
-# 20230712 edit
-111
-222
-333
