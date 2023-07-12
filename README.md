@@ -12,38 +12,11 @@ learn the github document
 5. 默认分支已检出; git checkout default
 > 对于远程存储库中的每个分支 foo，在本地存储库中创建相应的远程跟踪分支 refs/remotes/origin/foo。 通常可将此类远程跟踪分支名称缩写为 origin/foo。
 
-# main
-hello world  
-i am so hansome!  
-
 # readme_edits branch modification
 使用一个空行来开一个新段落
 
 行尾使用两个空格来在一个段落中换行  
 行尾使用两个空格来在一个段落中换行  
 
-# 20230704 other
-asdf
-tmark is the last man standing.
-
-# 20230705 edit
+# 20230712 edit
 111
-it 's my life. qqq branch  
-It's now or never
-da sha bi.
-
-# 20230707 edit
-222
-333
-
-# 20230710 edit
-111  
-222  
-333  
-444  
-555  
-
-# tmark local
-搞笑阿妹  
-git_tmark  
-$$$$$  
