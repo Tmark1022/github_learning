@@ -5,6 +5,7 @@
 #	> Created Time	: Mon 10 Jul 2023 03:08:10 PM CST
 #	> File Name	: dump_git_object.py
 #	> Description	: 打印git object內容, 协助分析git如何存储数据
+                        note : 其实使用git 底层命令 git cat-file 和 git ls-tree 来查看git object 对象内容。
 """
 import sys 
 import zlib  # A compression / decompression library
